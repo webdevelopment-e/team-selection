@@ -1,0 +1,30 @@
+.information{
+    display: flex;
+    border-bottom: 2px solid red;
+    align-items: center;
+}
+.player-image{
+  margin: 10px;
+  
+}
+.player-image img{
+    width: 400px;
+    border: 4px solid gold;
+}
+.player-detail{
+    color: rgb(173, 16, 16);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.player-detail p{
+    color:black;
+}
+.main-button{
+    background-color:cyan;
+    border-style: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    color:mediumblue;
+    cursor: pointer;
+}

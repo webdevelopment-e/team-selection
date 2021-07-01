@@ -1,0 +1,11 @@
+.player-container{
+    display: flex;
+}
+.information-container{
+    min-width: 500px;
+    border-right: 2px solid red;
+    margin-right: 10px;
+}
+.information-container h1{
+    color:darkblue;
+}
